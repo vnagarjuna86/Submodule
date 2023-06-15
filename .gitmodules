@@ -1,0 +1,3 @@
+[submodule "nagaDSL"]
+	path = nagaDSL
+	url = git@github.com:vnagarjuna86/nagaDSL.git
